@@ -1,0 +1,1306 @@
+{
+  "status": "ok",
+  "totalResults": 1234,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Sarah Fielding",
+      "title": "Oprah buys back her Apple TV+ documentary to lock it away",
+      "description": "A documentary on Oprah Winfrey is no longer coming to Apple TV+. Why, you might ask? Well, Winfrey, herself, bought back the rights to it, PageSix reports. Allegedly, Winfrey and filmmaker Kevin Macdonald clashed on the final product, with the latter not maki…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_dcc5640b-d89e-4a85-91ec-8715a629adab",
+      "urlToImage": null,
+      "publishedAt": "2024-09-19T13:00:02Z",
+      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Mat Smith",
+      "title": "The Morning After: Our verdict on the iPhone 16 Pro",
+      "description": "With the iPhone 16 Pro, the big announcements were the cameras and Apple Intelligence. The problem is Apple Intelligence isn’t quite here yet. We can test some features in the developer beta, but that’s not necessarily what we’ll get when the update rolls out…",
+      "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_96dd0644-68cd-4f1b-8bb6-3217d59c67c3",
+      "urlToImage": null,
+      "publishedAt": "2024-09-19T11:15:35Z",
+      "content": "If you click 'Accept all', we and our partners, including 239 who are part of the IAB Transparency &amp; Consent Framework, will also store and/or access information on a device (in other words, use … [+678 chars]"
+    },
+    {
+      "source": {
+        "id": "wired",
+        "name": "Wired"
+      },
+      "author": "Lauren Goode, Michael Calore",
+      "title": "Why Threads Is All the Ragebait",
+      "description": "This week, we talk about engagement bait on Threads, and why the social network is prioritizing posts that ask infuriating questions and stir drama.",
+      "url": "https://www.wired.com/story/gadget-lab-podcast-659/",
+      "urlToImage": "https://media.wired.com/photos/66eb27d22fe6c23e8a9446da/191:100/w_1280,c_limit/091824-gadget-lab-threads-rage-bait.jpg",
+      "publishedAt": "2024-09-19T12:00:00Z",
+      "content": "One surefire way to go viral on Threadsthe Meta-owned Instagram-spinoff social network with more than 200 million usersis to ask a ridiculous question that enrages your followers so much, they just h… [+2114 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.com"
+      },
+      "author": "Gordon Jackson",
+      "title": "Now We Know Vaguely When to Expect The Last of Us Season 2",
+      "description": "Plus, remember that live-action Ben 10 movie? Stop remembering it, it's gone.",
+      "url": "https://gizmodo.com/last-of-us-season-2-release-date-2025-hbo-max-streaming-2000499859",
+      "urlToImage": "https://gizmodo.com/app/uploads/2024/09/MS-0919-Last-of-Us-Ellie.jpg",
+      "publishedAt": "2024-09-19T13:00:20Z",
+      "content": "Kate Herron’s Sims movie has found itself a studio. John Cena has been glimpsed by Mattel, and has joined its Matchbox toy car movie in turn. Plus, A24’s Friday the 13th TV show might finally start f… [+3375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Scott Stein",
+      "title": "Apple Vision Pro's New OS Subtly Expands the Headset's Potential",
+      "description": "I already love the new hand gesture interface, and 3D photo conversions are amazing, too. But I want more, especially for connecting to the iPhone.",
+      "url": "https://www.cnet.com/tech/computing/apple-vision-pros-new-os-subtly-raises-the-bar-on-the-headsets-potential/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/37e667b66c0847aa0b2abcd0d7ae45d742315cee/hub/2024/06/25/2679ddce-863b-4473-8c78-19aaf2212be5/visionos2-ctrl1.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-19T13:00:18Z",
+      "content": "I had surgery this summer, and throughout the recovery, I routinely used two gadgets: Meta's Ray-Bans for easy calls and music listening, and Apple's Vision Pro to escape into movies. For the latter,… [+6608 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Ian Sherr",
+      "title": "In 2024, You Might Still Need a Landline Phone. Here's Why",
+      "description": "When huge outages happen, going old school has its advantages over smartphones.",
+      "url": "https://www.cnet.com/tech/mobile/in-2024-you-might-still-need-a-landline-phone-heres-why/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/62aea0904b40b1f5da2d8b53957a6879caf009ae/hub/2024/08/22/694a4613-4640-40b7-b8b1-ad5f168b67b4/gettyimages-1626885350.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-19T14:00:06Z",
+      "content": "When major outages hit our mobile carriers and networks go down for hours, we're left stranded without one of our most critical lines of access to the world. What good is a smartphone if it can't pho… [+7032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Lisa Eadicicco",
+      "title": "The Next Phone Era Is Almost Here. This Is How It's Shaping Up",
+      "description": "Smartphones will get much better at meeting your needs, and soon, thanks to AI.",
+      "url": "https://www.cnet.com/tech/mobile/features/the-next-phone-era-is-almost-here-this-is-how-its-shaping-up/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/071ac4621094024d0f5e9258e7cbc5761811b815/hub/2024/09/19/c1a64b00-7ca5-4db0-bd54-7d1df5120287/000-static-thumnail-hero.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-19T12:00:44Z",
+      "content": "In sci-fi shows like Westworld and The Expanse, characters use evolved mobile devices with sleek transparent designs that can project holograms or magically morph their interface as needed. \r\nFancifu… [+24781 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Matt Elliott",
+      "title": "HP OmniBook X 14 Review: Meet the Latest Copilot Plus PC Battery Life Champ",
+      "description": "It runs for more hours than there are hours in a day.",
+      "url": "https://www.cnet.com/tech/computing/hp-omnibook-x-14-review-meet-the-latest-copilot-plus-pc-battery-life-champ/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/9f9cd84aeb4cb1389d389cce821ff7e7b032cdf5/hub/2024/09/18/2b69f9a6-ea5b-4285-88af-c54526a660b0/hp-omnibook-x-14-overview.jpg?auto=webp&fit=crop&height=675&precrop=2681,2017,x240,y0&width=1200",
+      "publishedAt": "2024-09-19T12:00:32Z",
+      "content": "There's a new battery life leader in the Copilot Plus PC clubhouse. The first Qualcomm Snapdragon X-powered model we reviewed, the Microsoft Surface Laptop 7, ran for nearly 20 hours in testing to ou… [+14235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Apple Gets EU Warning to Open iOS to Third-Party Connected Devices",
+      "description": "The European Union today issued a warning to Apple, demanding that the tech giant open up its iOS operating system to rival companies and third-party developers or potentially face significant fines. The move is part of the EU's efforts to enforce the Digital…",
+      "url": "https://www.macrumors.com/2024/09/19/eu-warns-apple-open-up-ios/",
+      "urlToImage": "https://images.macrumors.com/t/sMSL9x9rGpB0mKcQjyg_5E2d5PQ=/1600x/article-new/2016/01/European-Commisssion.jpg",
+      "publishedAt": "2024-09-19T11:03:41Z",
+      "content": "The European Union today issued a warning to Apple, demanding that the tech giant open up its iOS operating system to rival companies and third-party developers or potentially face significant fines.… [+2232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Joe Rossignol",
+      "title": "New iPads in 2025 Rumored to Feature Apple-Designed Wi-Fi Chip",
+      "description": "Apple's rumored in-house Wi-Fi chip might debut in devices as early as next year, according to Taiwanese industry publication DigiTimes.\n\n\n\n\n\nThe report cites insiders from Apple's supply chain who suggested that at least some new iPad models launching in 202…",
+      "url": "https://www.macrumors.com/2024/09/19/2025-ipads-with-apple-wifi-chip-rumor/",
+      "urlToImage": "https://images.macrumors.com/t/PHmrF71wNFO8_dXNGwVWu8fj5-Q=/2500x/article-new/2023/01/Apple-Wi-Fi-Chip-Feature-Triad.jpg",
+      "publishedAt": "2024-09-19T14:37:07Z",
+      "content": "Apple's rumored in-house Wi-Fi chip might debut in devices as early as next year, according to Taiwanese industry publication DigiTimes.\r\nThe report cites insiders from Apple's supply chain who sugge… [+991 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Kayleigh Price",
+      "title": "Fall is the best time to visit Disney World. As a former employee, here are 9 of my favorite things to do in the parks.",
+      "description": "From Mickey's Not So Scary Halloween Party to Epcot's International Food and Wine Festival, here are my favorite autumn experiences at Disney.",
+      "url": "https://www.businessinsider.com/disney-world-best-things-to-do-in-fall-cast-member",
+      "urlToImage": "https://i.insider.com/66ec2549cfb7f307e573032c?width=1200&format=jpeg",
+      "publishedAt": "2024-09-19T14:27:44Z",
+      "content": "I loved working at Disney World during Halloween.Kayleigh Price\r\n<ul>\n<li>I worked in several locations across Disney World, and fall is my favorite time to visit the parks.</li>\n<li>I love dressing … [+6358 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Melissa Hart",
+      "title": "My great-grandmother was a vaudeville comic and lived to 96. Here are her secrets to longevity.",
+      "description": "My great-grandmother ran away to join the circus and lived to 96. She walked laps around the house every morning and loved making people laugh.",
+      "url": "https://www.businessinsider.com/great-grandmother-longevity-secrets-laughter-2024-9",
+      "urlToImage": "https://i.insider.com/66e9a048d17aa3c7b2b3541d?width=1200&format=jpeg",
+      "publishedAt": "2024-09-19T09:49:02Z",
+      "content": "The author's great-grandmother standing in front of the biplane she and her husband traveled in.Courtesy of Melissa Hart\r\n<ul><li>My great-grandmother and great-grandfather had a comedy act together … [+4054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Rubén Chicharro",
+      "title": "El Huawei Watch GT 5 es el reloj que Samsung y Xiaomi deberían envidiar",
+      "description": "Un año después de presentar uno de los relojes inteligentes más interesantes del mercado por su precio y su diseño, Huawei vuelve a la carga con una nueva versión mejorada no solo en cuanto a estética, sino también en cuanto a funciones para la salud y el dep…",
+      "url": "http://hipertextual.com/2024/09/huawei-watch-gt-5",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/09/huawei-watch-gt-5-001.jpg",
+      "publishedAt": "2024-09-19T14:00:17Z",
+      "content": "Un año después de presentar uno de los relojes inteligentes más interesantes del mercado por su precio y su diseño, Huawei vuelve a la carga con una nueva versión mejorada no solo en cuanto a estétic… [+5790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Hipertextual"
+      },
+      "author": "Quelian Sanz",
+      "title": "Esta novedad oculta de iOS 18 es una maravilla y llevabas años esperándola en el iPhone",
+      "description": "Apple ha tardado la friolera de 17 años en integrar la función protagonista de hoy. No se trata de un básico o algo necesario para el buen funcionamiento del sistema, pero sí de una herramienta verdaderamente útil que vas a utilizar de vez en cuando. Por fin,…",
+      "url": "http://hipertextual.com/2024/09/esta-novedad-oculta-de-ios-18-es-una-maravilla-y-llevabas-anos-esperandola-en-el-iphone",
+      "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/09/Apple-iPhone-16-Apple-Intelligence-240909-scaled.jpg",
+      "publishedAt": "2024-09-19T08:16:54Z",
+      "content": "Apple ha tardado la friolera de 17 años en integrar la función protagonista de hoy. No se trata de un básico o algo necesario para el buen funcionamiento del sistema, pero sí de una herramienta verda… [+2228 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Javier Lacort",
+      "title": "La metamorfosis de Apple: del catálogo minimalista al maximalismo calculado",
+      "description": "De Apple se suele decir que es una empresa que lanza muy pocos productos y que tiene un catálogo reducidísimo. Aunque es inferior al de otros fabricantes, esto no es del todo cierto. Lo fue en el pasado, pero ya no lo es.\n<!-- BREAK 1 -->\nTomemos como referen…",
+      "url": "https://www.xataka.com/empresas-y-economia/metamorfosis-apple-catalogo-minimalista-al-maximalismo-calculado",
+      "urlToImage": "https://i.blogs.es/e04642/chris-nagahama-unsplash/840_560.jpeg",
+      "publishedAt": "2024-09-19T06:31:23Z",
+      "content": "De Apple se suele decir que es una empresa que lanza muy pocos productos y que tiene un catálogo reducidísimo. Aunque es inferior al de otros fabricantes, esto no es del todo cierto. Lo fue en el pas… [+8411 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Yúbal Fernández",
+      "title": "Apple Intelligence en España y Europa: cuándo llega, idiomas, y todo lo que se sabe",
+      "description": "Vamos a aclararte qué se sabe sobre la llegada de Apple Intelligence a Europa en general, y a España en particular. iOS 18 ya está entre nosotros, y su principal novedad es un sistema de inteligencia artificial que todavía no ha llegado. Y aunque Apple ya ha …",
+      "url": "https://www.xataka.com/basics/apple-intelligence-espana-europa-cuando-llega-idiomas-todo-que-se-sabe",
+      "urlToImage": "https://i.blogs.es/fd8abc/apple-intelligence/840_560.jpeg",
+      "publishedAt": "2024-09-19T09:59:15Z",
+      "content": "Vamos a aclararte qué se sabe sobre la llegada de Apple Intelligence a Europa en general, y a España en particular. iOS 18 ya está entre nosotros, y su principal novedad es un sistema de inteligencia… [+5428 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Juan Carlos López",
+      "title": "El SoC A16 Bionic de Apple ya se fabrica en EEUU. Y este es solo el principio de la reorganización de TSMC",
+      "description": "La polémica planta de semiconductores conocida como Fab 21 que tiene TSMC en las proximidades de Phoenix (EEUU) ya está fabricando chips. Y está produciendo, ni más ni menos, SoC A16 Bionic para Apple. Estas instalaciones han estado en el punto de mira de los…",
+      "url": "https://www.xataka.com/empresas-y-economia/soc-a16-bionic-apple-se-fabrica-eeuu-este-solo-principio-reorganizacion-tsmc",
+      "urlToImage": "https://i.blogs.es/92b61e/tsmc-ap/840_560.jpeg",
+      "publishedAt": "2024-09-19T11:15:57Z",
+      "content": "La polémica planta de semiconductores conocida como Fab 21 que tiene TSMC en las proximidades de Phoenix (EEUU) ya está fabricando chips. Y está produciendo, ni más ni menos, SoC A16 Bionic para Appl… [+3319 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Javier Pastor",
+      "title": "Meta y Spotify avisan a la UE: la regulación va a provocar que pierda el tren de la IA",
+      "description": "La Unión Europea no innova (mucho). Sobre todo, regula. Esa es la visión del célebre efecto Bruselas que está plasmándose cada vez más en el viejo continente. Son muchos los analistas que han advertido de los riesgos que eso implica, y el propio y reciente in…",
+      "url": "https://www.xataka.com/robotica-e-ia/meta-spotify-avisan-a-ue-regulacion-va-a-provocar-que-pierda-tren-ia",
+      "urlToImage": "https://i.blogs.es/4ec86e/zuck-ek/840_560.jpeg",
+      "publishedAt": "2024-09-19T09:32:00Z",
+      "content": "La Unión Europea no innova (mucho). Sobre todo, regula. Esa es la visión del célebre efecto Bruselas que está plasmándose cada vez más en el viejo continente. Son muchos los analistas que han adverti… [+3282 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Rubén Andrés",
+      "title": "Samsung despedirá al 30% de su plantilla siendo líder en ventas de móviles: la IA impone sus reglas y las marcas reaccionan",
+      "description": "Samsung ha anunciado un recorte de personal a nivel global que se acercaría al 30% del total de su plantilla. Con este anuncio, Samsung se sumaría a la lista de empresas tecnológicas que ya han reducido sus plantillas tras el estallido de contrataciones que s…",
+      "url": "https://www.xataka.com/empresas-y-economia/samsung-despedira-al-30-su-plantilla-siendo-lider-ventas-moviles-ia-impone-sus-reglas-marcas-reaccionan",
+      "urlToImage": "https://i.blogs.es/757e15/samsung/840_560.jpeg",
+      "publishedAt": "2024-09-19T12:07:56Z",
+      "content": "Samsung ha anunciado un recorte de personal a nivel global que se acercaría al 30% del total de su plantilla. Con este anuncio, Samsung se sumaría a la lista de empresas tecnológicas que ya han reduc… [+5381 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Javier Pastor",
+      "title": "Hemos calculado cuánto dinero se están gastando las Big Tech en centros de datos para IA. Los números son mareantes",
+      "description": "Las Big Tech están gastando dinero en IA como si no hubiera un mañana. Estas gigantescas inversiones son el arma que todas ellas tienen para ganar la carrera de la inteligencia artificial, y en los últimos tiempos se centran especialmente en un apartado: los …",
+      "url": "https://www.xataka.com/robotica-e-ia/inversion-centros-datos-para-ia-mayor-historia-facil-comprobarlo-dato-crucial-capex",
+      "urlToImage": "https://i.blogs.es/e7b9e7/dc2/840_560.jpeg",
+      "publishedAt": "2024-09-19T07:01:24Z",
+      "content": "Las Big Tech están gastando dinero en IA como si no hubiera un mañana. Estas gigantescas inversiones son el arma que todas ellas tienen para ganar la carrera de la inteligencia artificial, y en los ú… [+8508 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka.com"
+      },
+      "author": "Eva Rodríguez de Luis",
+      "title": "Huawei Watch GT5 Pro, análisis: no solo es el smartwatch más elegante que he probado, también me saca los colores en salud",
+      "description": "Lo que Huawei está haciendo con sus wearables a lo largo de los años es digno de mención. En el terreno de los smartwatches, empezaron con unos relojes soberbios a nivel estético y de batería, como podemos ver en algunos predecesores del modelo que nos ocupa,…",
+      "url": "https://www.xataka.com/analisis/huawei-watch-gt5-pro-analisis-caracteristicas-precio-especificaciones",
+      "urlToImage": "https://i.blogs.es/1895ce/img_0643/840_560.jpeg",
+      "publishedAt": "2024-09-19T14:02:01Z",
+      "content": "Lo que Huawei está haciendo con sus wearables a lo largo de los años es digno de mención. En el terreno de los smartwatches, empezaron con unos relojes soberbios a nivel estético y de batería, como p… [+23073 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Daringfireball.net"
+      },
+      "author": "John Gruber",
+      "title": "★ The iPhones 16",
+      "description": "What more proof of the camera’s singular importance to the iPhone would one need than the ever-growing block of camera lenses on the back of each year’s new models, or the “Shot on iPhone” ad campaign? A dedicated hardware button?",
+      "url": "https://daringfireball.net/2024/09/the_iphones_16",
+      "urlToImage": "https://daringfireball.net/graphics/df-wide-card.png",
+      "publishedAt": "2024-09-19T03:59:00Z",
+      "content": "One of the many memorable moments in Steve Jobs’s 2007 introduction of the original iPhone was this slide showing four of the then-leading smartphones on the market. Jobs explained:\n\n\n Now, why do we… [+45933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Digital Trends"
+      },
+      "author": "Christine Romero-Chan",
+      "title": "Remarkable Paper Pro review: one digital notebook to rule them all",
+      "description": "The Remarkable Paper Pro is a great tool for those who love to handwrite notes or want a distraction-free writing device.",
+      "url": "https://www.digitaltrends.com/mobile/remarkable-paper-pro-review/",
+      "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/09/remarkable-paper-pro-8.jpg?resize=1200%2C630&p=1",
+      "publishedAt": "2024-09-19T14:30:27Z",
+      "content": "These days, most people take notes on a computer or tablet, and more often than not, those notes are typed out instead of handwritten. Its becoming rarer to handwrite notes, but if youre the kind of … [+10047 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Charley Locke",
+      "title": "Did Apple Just Stumble Into a Cure for Male Loneliness?",
+      "description": "Hearing aids can be freeing—if only people would wear them.",
+      "url": "https://www.theatlantic.com/health/archive/2024/09/hearing-aids-airpods-apple-loneliness/679932/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/obOkFai_Txn0I5AoqyPEcDLIoeM=/0x40:2000x1082/1200x625/media/img/mt/2024/09/Hearing_aid_horizontal/original.jpg",
+      "publishedAt": "2024-09-19T13:05:24Z",
+      "content": "Richard Einhorn first noticed that he was losing his hearing in a way that many others do—through a missed connection, when he couldn’t make out what a colleague was saying on a phone call. He was 38… [+9000 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Atlantic"
+      },
+      "author": "Hanna Rosin",
+      "title": "A Campaign-Song Nightmare",
+      "description": "Yes, Rachel Platten knows exactly how you felt about \"Fight Song.\"",
+      "url": "https://www.theatlantic.com/podcasts/archive/2024/09/fight-song-campaign-hillary-clinton-rachel-platten/679927/",
+      "urlToImage": "https://cdn.theatlantic.com/thumbor/TT919ee09ji0iSLVtyKcLgr3i7Q=/0x81:4000x2164/1200x625/media/img/mt/2024/09/Radio_Atlantic_Rachel_Platten/original.png",
+      "publishedAt": "2024-09-19T10:00:00Z",
+      "content": "Subscribe here: Apple Podcasts | Spotify | YouTube | Overcast | Pocket CastsAt the Democratic National Convention last month, Hillary Clinton walked offstage to her campaign anthem from 2016, “Fight … [+17082 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Why hundreds of Samsung workers are protesting in India",
+      "description": "About 1500 workers in Tamil Nadu state have been striking work for the past 11 days.",
+      "url": "https://www.bbc.com/news/articles/c7488w85n00o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/137c/live/988e2800-7563-11ef-8c1a-df523ba43a9a.jpg",
+      "publishedAt": "2024-09-19T01:10:13Z",
+      "content": "More than a thousand workers are participating in the strike\r\nFor the past 11 days, about 1,500 workers of South Korean technology giant Samsung Electronics have been striking work in the southern In… [+5909 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Strangeloopcanon.com"
+      },
+      "author": "Rohit Krishnan",
+      "title": "Seeing Like a Network",
+      "description": "Dark Forests, Dense Networks",
+      "url": "https://www.strangeloopcanon.com/p/seeing-like-a-network",
+      "urlToImage": "https://substackcdn.com/image/fetch/w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff794b6f7-98e1-43b7-aa3e-0e7d01bc4be8_2000x1050.png",
+      "publishedAt": "2024-09-19T12:41:16Z",
+      "content": "I.\r\nWere living through a phase change that is at the root of a lot of our societal problems. Its the fact that our information networks have become much more dense.\r\nYou exist as a node in a network… [+24665 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Ben Schwan",
+      "title": "tvOS 18: Apple hat Features nicht fertig, liefert später nach",
+      "description": "Trotz der Tatsache, dass tvOS 18 kein riesiges Update ist, gelang es Apple nicht, alle angekündigten Funktionen umzusetzen. Hierauf müssen Sie noch warten.",
+      "url": "https://www.heise.de/news/tvOS-18-Apple-hat-Features-nicht-fertig-liefert-spaeter-nach-9883198.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/7/2/1/0/7/Screenshot_2024-07-07_at_13.54.00-2-2e7447bd7d5f21a4.png",
+      "publishedAt": "2024-09-19T08:00:00Z",
+      "content": "Als großer Wurf im Hinblick auf Neuerungen gilt tvOS 18 nicht. Trotzdem war Apple nicht in der Lage, alle angekündigten Funktionen mit Erscheinen der ersten öffentlichen Version zu implementieren. Di… [+1972 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Isabel Grünewald",
+      "title": "KI-Update kompakt: Apple Intelligence, ChatGPT, KI-Regulierung, Deepfake-Gesetze",
+      "description": "Das \"KI-Update\" liefert werktäglich eine Zusammenfassung der wichtigsten KI-Entwicklungen.",
+      "url": "https://www.heise.de/news/KI-Update-kompakt-Apple-Intelligence-ChatGPT-KI-Regulierung-Deepfake-Gesetze-9905970.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/7/2/6/2/0/KIupdate_Titel_122023-4cd1ddee68e292c6.png",
+      "publishedAt": "2024-09-19T13:00:00Z",
+      "content": "Inhaltsverzeichnis\r\nApple plant, die deutsche Sprachunterstützung für Apple Intelligence im Jahr 2025 einzuführen. Dies wurde von Bob Borchers, Vice President für Worldwide Product Marketing, bei ein… [+7959 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "heise online"
+      },
+      "author": "Malte Kirchner",
+      "title": "Zugang für Zubehörhersteller: EU-Kommission eröffnet Verfahren gegen Apple",
+      "description": "Die EU-Kommission erhöht den Druck auf Apple. Zwei neue Verfahren sollen die Interoperabilität von iOS und iPadOS mit Drittanbieter-Geräten verbessern.",
+      "url": "https://www.heise.de/news/Zugang-fuer-Zubehoerhersteller-EU-Kommission-eroeffnet-Verfahren-gegen-Apple-9913686.html",
+      "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/6/7/2/9/6/0/DSGVO_Gericht-26e9c8b0adb2561a.jpg",
+      "publishedAt": "2024-09-19T14:04:00Z",
+      "content": "Inhaltsverzeichnis\r\nDie Europäische Kommission will Apple jetzt bei zwei Themen im Detail vorgeben, wie der Hersteller von iPhones und iPads die Interoperablitätsanforderungen des Gesetzes für digita… [+3606 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Apple TV Oprah Winfrey biodoc won’t be shown; star refunded Apple to block it",
+      "description": "An Apple TV+ Oprah Winfrey biodoc won’t be shown after all, despite the fact that Oscar-winning filmmaker Kevin Macdonald completed filming.\n\n\n\nA new report says that Winfrey refunded the sum Apple paid her for the project in order to prevent it from being ai…",
+      "url": "https://9to5mac.com/2024/09/19/apple-tv-oprah-winfrey-biodoc-wont-be-shown-star-refunded-apple-to-block-it/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/Apple-TV-Oprah-Winfrey-biodoc-wont-be-shown.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T13:42:49Z",
+      "content": "An Apple TV+ Oprah Winfrey biodoc won’t be shown after all, despite the fact that Oscar-winning filmmaker Kevin Macdonald completed filming.\r\nA new report says that Winfrey refunded the sum Apple pai… [+2083 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ryan Christoffel",
+      "title": "Your Apple Watch can now replace your TV remote",
+      "description": "TV remotes are notorious for getting lost. Or for being just out of reach, right at the moment you’ve settled into a comfortable seat and don’t want to get up. Wouldn’t it be nice if you could control your TV from a device that’s always strapped to your wrist…",
+      "url": "https://9to5mac.com/2024/09/19/your-apple-watch-can-now-replace-your-tv-remote/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/apple-watch-ultra-2-hermes.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T14:30:25Z",
+      "content": "TV remotes are notorious for getting lost. Or for being just out of reach, right at the moment youve settled into a comfortable seat and dont want to get up. Wouldnt it be nice if you could control y… [+1630 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Filipe Espósito",
+      "title": "iPhone 16 to be assembled in Brazil in addition to China and India",
+      "description": "Pre-orders for the iPhone 16 have already begun and the phones will hit stores on Friday, September 20. As previously reported, Apple will assemble the new iPhones in India simultaneously with China. But it turns out that Brazil is also on the list of countri…",
+      "url": "https://9to5mac.com/2024/09/18/iphone-16-assembled-brazil-china-india/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iPhone-16.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T02:28:23Z",
+      "content": "Pre-orders for the iPhone 16 have already begun and the phones will hit stores on Friday, September 20. As previously reported, Apple will assemble the new iPhones in India simultaneously with China.… [+1427 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Here’s what to expect from the Camera Control button in third-party camera apps",
+      "description": "One piece of good news from the keynote is that the shiny new Camera Control button on the iPhone 16 will also be made available to developers of third-party camera apps.\n\n\n\nApple has published its guidelines for developers, which give us some idea of what we…",
+      "url": "https://9to5mac.com/2024/09/19/heres-what-to-expect-from-the-camera-control-button-in-third-party-camera-apps/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/Camera-Control-button-in-third-party-camera-apps.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T12:12:35Z",
+      "content": "One piece of good news from the keynote is that the shiny new Camera Control button on the iPhone 16 will also be made available to developers of third-party camera apps.\r\nApple has published its gui… [+1933 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Popular YouTuber says Apple is lying about the iPhone 16 Pro 48MP camera; Lux disagrees",
+      "description": "A popular YouTube channel has described the claimed 48 megapixel resolution of the iPhone 16 Pro’s camera as “absolutely fake.” Professional photographer Tony Northrup says that the true resolution is “around six megapixels.”\n\n\n\nSebastiaan de With, co-founder…",
+      "url": "https://9to5mac.com/2024/09/19/popular-youtuber-says-apple-is-lying-about-the-iphone-16-pro-48mp-camera-lux-disagrees/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iPhone-16-Pro-48MP-camera.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T13:02:06Z",
+      "content": "A popular YouTube channel has described the claimed 48 megapixel resolution of the iPhone 16 Pro’s camera as “absolutely fake.” Professional photographer Tony Northrup says that the true resolution i… [+3453 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Fernando Silva",
+      "title": "iOS 18 brings much needed features to Journal app [Video]",
+      "description": "Last year, Apple introduced its brand new Journal App alongside its iOS 17.2 update. It was a very basic app with one real function: inputting journal entries in chronological order. While customers welcomed the new free app, many pretty basic features were m…",
+      "url": "https://9to5mac.com/2024/09/19/ios-18-brings-much-needed-features-to-journal-app/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/journal-ios-18.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T14:26:54Z",
+      "content": "Last year, Apple introduced its brand new Journal App alongside its iOS 17.2 update. It was a very basic app with one real function: inputting journal entries in chronological order. While customers … [+4138 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Jeff Benjamin",
+      "title": "iOS 18.1 beta 4 – Spatial Photos, hints at Apple Intelligence for Vision Pro, wireless restore for iPhone 16, and more [Video]",
+      "description": "iOS 18.1 beta 4, released yesterday to developers, is bundled with new goodies, hidden items that reveal exciting hints about the future of Apple Vision Pro, and a new wireless system restore method for iPhone 16. Also included is an updated unified picker th…",
+      "url": "https://9to5mac.com/2024/09/18/ios-18-1-beta-4-spatial-photos-hints-at-apple-intelligence-for-vision-pro-wireless-restore-for-iphone-16-and-more-video/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/Type-to-Siri-Suggestions.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T01:09:23Z",
+      "content": "iOS 18.1 beta 4, released yesterday to developers, is bundled with new goodies, hidden items that reveal exciting hints about the future of Apple Vision Pro, and a new wireless system restore method … [+5855 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Only iPhone 18 Pro models likely to get 2nm chips, suggests analyst",
+      "description": "We may still be waiting for iPhone 16 deliveries tomorrow, but the rumor mill is already busy looking ahead to both the iPhone 17 and iPhone 18.\n\n\n\nA tweet by supply chain analyst Ming-Chi Kuo claims to shed light on Apple’s plans for the adoption of smaller …",
+      "url": "https://9to5mac.com/2024/09/19/only-iphone-18-pro-models-likely-to-get-2nm-chips-suggests-analyst/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/Only-iPhone-18-Pro-models-likely-to-get-2nm-chips-suggests-analyst.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T11:04:53Z",
+      "content": "We may still be waiting for iPhone 16 deliveries tomorrow, but the rumor mill is already busy looking ahead to both the iPhone 17 and iPhone 18.\r\nA tweet by supply chain analyst Ming-Chi Kuo claims t… [+1702 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Familiarize yourself with the Camera Control button before your iPhone 16 arrives",
+      "description": "I’m one of many eagerly awaiting delivery of my iPhone 16 tomorrow (Pro Max, in my case), and the Camera Control button is the first thing I’m going to try.\n\n\n\nIf you’re in the same position, then an Apple support document provides an opportunity to familiari…",
+      "url": "https://9to5mac.com/2024/09/19/familiarize-yourself-with-the-camera-control-button-before-your-iphone-16-arrives/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/Familiarize-yourself-with-the-Camera-Control-button.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T11:36:31Z",
+      "content": "I’m one of many eagerly awaiting delivery of my iPhone 16 tomorrow (Pro Max, in my case), and the Camera Control button is the first thing I’m going to try.\r\nIf you’re in the same position, then an A… [+2512 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Chance Miller",
+      "title": "How to check if your iPhone 16 pre-order has shipped",
+      "description": "The first iPhone 16 and iPhone 16 Pro pre-orders have started shipping to buyers. As usual, this doesn’t mean your iPhone 16 will arrive before the September 20 launch date. It does mean, however, that you can easily track your new phone as it travels around …",
+      "url": "https://9to5mac.com/2024/09/18/how-to-check-if-your-iphone-16-pre-order-has-shipped/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/iphone-16-pro-vs-15-pro-i-o.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T01:42:28Z",
+      "content": "The first iPhone 16 and iPhone 16 Pro pre-orders have started shipping to buyers. As usual, this doesnt mean your iPhone 16 will arrive before the September 20 launch date. It does mean, however, tha… [+1703 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Michael Potuck",
+      "title": "Here’s how to turn on iPhone Eye Tracking in iOS 18",
+      "description": "iOS 18 includes several new accessibility features for iPhone with the headlining one being the ability to control the smartphone with just your eyes. Whether you have an accessibility need or just want to tinker with the new feature, here’s how to turn on iP…",
+      "url": "https://9to5mac.com/2024/09/19/turn-on-iphone-eye-tracking-ios-18/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/06/turn-on-iphone-eye-tracking-ios-18.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T14:08:00Z",
+      "content": "iOS 18 includes several new accessibility features for iPhone with the headlining one being the ability to control the smartphone with just your eyes. Whether you have an accessibility need or just w… [+2032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Benjamin Mayo",
+      "title": "iOS 18 hidden apps are findable, if you know where to look",
+      "description": "iOS 18 includes a new feature where you can choose to require Face ID to open an app, or go one step further and hide it from your device altogether. This second option removes the icon from the home screen, and places the app in a specially obscured Hidden f…",
+      "url": "https://9to5mac.com/2024/09/19/ios-18-hidden-apps-flaw-exposed/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/09/ios-18-hidden-apps.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2024-09-19T10:41:36Z",
+      "content": "iOS 18 includes a new feature where you can choose to require Face ID to open an app, or go one step further and hide it from your device altogether. This second option removes the icon from the home… [+2683 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Police"
+      },
+      "author": "Dominic Preston",
+      "title": "I've tried the first tandem OLED tablet that isn't an iPad",
+      "description": "Tandem OLED tech could be coming to more tablets soon, bringing better brightness and a longer life",
+      "url": "https://www.androidpolice.com/huawei-matepad-pro-2024-tandem-oled/",
+      "urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2024/09/huawei-matepad-pro-2024-12-2.jpg",
+      "publishedAt": "2024-09-19T14:00:10Z",
+      "content": "When Apple unveiled the first tandem OLED iPad Pros earlier this year, it gave a new lease of life to OLED, a display tech that's long been the gold standard, but has been increasingly under threat f… [+3784 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Genbeta.com"
+      },
+      "author": "Antonio Vallejo",
+      "title": "Amazon ha decidido obligar a sus empleados a estar cinco días en oficina. Las reacciones: \"hace que me entren ganas de llorar\"",
+      "description": "Trabajar desde casa ha sido uno de los grandes beneficios que nos ha dejado la época postpandémica, sobre todo en lo que respecta a la conciliación familiar. Tras varios años en los que múltiples empresas han aplicado esta política en muchos de sus cargos, de…",
+      "url": "https://www.genbeta.com/actualidad/amazon-ha-decidido-obligar-a-sus-empleados-a-estar-cinco-dias-oficina-reacciones-hace-que-me-entren-ganas-llorar",
+      "urlToImage": "https://i.blogs.es/3c0a89/lycs-architecture-u2bi3gmnsse-unsplash/840_560.jpeg",
+      "publishedAt": "2024-09-19T09:52:00Z",
+      "content": "Trabajar desde casa ha sido uno de los grandes beneficios que nos ha dejado la época postpandémica, sobre todo en lo que respecta a la conciliación familiar. Tras varios años en los que múltiples emp… [+4599 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "Europe demands Apple open up iOS for better accessory compatibility",
+      "description": "The European Commission has begun to set out legal requirements for Apple to open up all of iOS and iPadOS to third parties, on top of allowing rival App Stores and payment systems.Margrethe Vestager, Executive Vice-President of the European CommissionAs one …",
+      "url": "https://appleinsider.com/articles/24/09/19/europe-demands-apple-open-up-ios-for-better-accessory-compatibility",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/36551-68088-margrethe-vestager-xl.jpg",
+      "publishedAt": "2024-09-19T11:53:32Z",
+      "content": "The European Commission has begun to set out legal requirements for Apple to open up all of iOS and iPadOS to third parties, on top of allowing rival App Stores and payment systems.\r\nAs one European … [+2135 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (William Gallagher)",
+      "title": "High costs mean Apple will limit 2nm processors to iPhone 18 Pro models",
+      "description": "A new report from analyst Ming-Chi Kuo says that only certain models of the 2026 iPhone 18 range — presumably the Pro editions — will get 2nm processors.TSMC is developing a 2nm processIt's previously been reported that Apple will not be able to use 2 nanomet…",
+      "url": "https://appleinsider.com/articles/24/09/19/high-costs-mean-apple-will-limit-2nm-processors-to-iphone-18-pro-models",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/60305-123959-51787-102628-tsmc-xl-xl.jpg",
+      "publishedAt": "2024-09-19T10:09:07Z",
+      "content": "A new report from analyst Ming-Chi Kuo says that only certain models of the 2026 iPhone 18 range — presumably the Pro editions — will get 2nm processors.\r\nIt's previously been reported that Apple wil… [+1706 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Malcolm Owen)",
+      "title": "Zombie film '28 Years Later' was shot on iPhone 15 Pro Max",
+      "description": "The upcoming Danny Boyle horror sequel \"28 Years Later\" was shot on the iPhone 15 Pro Max, marking another movie that took advantage of Apple's product lines.Cameras of the iPhone 15 Pro MaxPrincipal filming of \"28 Years Later,\" a continuation of the \"28 Days…",
+      "url": "https://appleinsider.com/articles/24/09/19/zombie-film-28-years-later-was-shot-on-iphone-15-pro-max",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/61100-126075-58728-119699-56451-114829-15PM-back-xl-xl-xl.jpg",
+      "publishedAt": "2024-09-19T14:21:00Z",
+      "content": "The upcoming Danny Boyle horror sequel \"28 Years Later\" was shot on the iPhone 15 Pro Max, marking another movie that took advantage of Apple's product lines. \r\nPrincipal filming of \"28 Years Later,\"… [+2389 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Malcolm Owen)",
+      "title": "Compared: AirPods 4 vs AirPods 3 -- Pro-grade budget audio",
+      "description": "Apple's fourth-generation AirPods include optional ANC, borrowing from the AirPods Pro line. Here's how its specifications line up against the AirPods 3.AirPods 4 [left], AirPods 3 [right]As part of its iPhone 16 launch at the \"Glowtime\" event, Apple introduc…",
+      "url": "https://appleinsider.com/inside/airpods/vs/compared-airpods-4-vs-airpods-3----pro-grade-budget-audio",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/60974-125877-Airpods4airpods3-xl.jpg",
+      "publishedAt": "2024-09-19T13:33:16Z",
+      "content": "Apple's fourth-generation AirPods include optional ANC, borrowing from the AirPods Pro line. Here's how its specifications line up against the AirPods 3. \r\nAs part of its iPhone 16 launch at the \"Glo… [+9424 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "AppleInsider"
+      },
+      "author": "news@appleinsider.com (Wesley Hilliard)",
+      "title": "Nuphy Air60 V2 review: tiny & mighty mechanical keyboard gets better",
+      "description": "Nuphy already struck a winning formula with the Air60 thanks to the ultra-portable design, but it evolved the V2 perfectly with 1,000Hz polling, faster connection speeds, and VIA support.Nuphy Air60 V2 reviewMechanical keyboards are more mainstream than ever …",
+      "url": "https://appleinsider.com/articles/24/09/19/nuphy-air60-v2-review-tiny-mighty-mechanical-keyboard-gets-better",
+      "urlToImage": "https://photos5.appleinsider.com/gallery/60903-125998-Nuphy1-xl.jpg",
+      "publishedAt": "2024-09-19T03:02:39Z",
+      "content": "Nuphy already struck a winning formula with the Air60 thanks to the ultra-portable design, but it evolved the V2 perfectly with 1,000Hz polling, faster connection speeds, and VIA support.\r\nMechanical… [+9558 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "小暮ひさのり",
+      "title": "ダイソーで1,000円。ジェネリックApple Pencilの決定版が出てしまった",
+      "description": "Photo:小暮ひさのり「これ使ってみてくださいよ」と、ある日ギズ編集部から渡されたのが、ApplePencil！…っぽい見た目のタッチペン。なんとダイソーの。Amazonで散見されるジェネリックApplePencilの類ですねー。ダイソーも出したんだ〜。…なんて思ってたら、「これ1,000円です」なんて追撃ぶっこまれて目ん玉飛び出ました。はぁ？僕が買ったジェネリックApplePencil、2,5",
+      "url": "https://www.gizmodo.jp/2024/09/daiso_apple-pen.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/09/19/2024-09-19pek00.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2024-09-19T08:30:00Z",
+      "content": "Apple Pencil \r\nAmazonApple Pencil1,000\r\n Apple Pencil2,500\r\nPhoto: \r\n1,000\r\nUSB-C\r\nLED\r\niPad\r\n2,500Apple Pencil\r\nPhoto: \r\n2,500Apple PencilApple Pencil\r\nPhoto: \r\nUSB-CLEDON/OFF\r\nApple13800Apple Penci… [+56 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "satomi",
+      "title": "iOS 18では部品にも盗難予防のアクティベーションロックがかかる",
+      "description": "Image:betaprofiles/Threads｜「オーナー用にロックがかかってるバッテリーです」バラシてもバレる。もはや盗んでも意味ないね。iOS18の新機能をベータのうちから情報交換するコミュ「BetaProfiles」で、この間話題になっていたのがこちら。iPhoneの部品にまで盗難予防のアクティベーションロックをかける新機能です。アクティベーションロックとは？オーナー以外の第三者がiP",
+      "url": "https://www.gizmodo.jp/2024/09/this-ios-18-feature-attempts-to-make-your-iphone-not-worth-stealing.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/09/19/20240917ActivationLock_parts_iOS18.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2024-09-19T02:00:00Z",
+      "content": "iOS 18Beta ProfilesiPhone\r\niPhone\r\nApple4\r\nApple ID\r\niPhone 12\r\nAppleID\r\nThreadCancelApple IDiPhoneUnknown Part\r\nRedditDIY\r\niOS 17.3 ON"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "小暮ひさのり",
+      "title": "次のMac miniはUSB-C×5ポート構成らしい。えっ、USB-Aは？",
+      "description": "Image:AppleA、お前は用済みだ。説がさらに濃厚に…。以前、次期M4チップ搭載のMacminiちゃんは、USB-Aポート廃止なのでは？といったウワサをお伝えしましたが、別の角度からも同様の情報が出てきました。MacRumorsによると、Apple（アップル）のソフトウェア内のコードから、5つのUSB-Cポートを備えた次世代Macminiを示す「ApplesiliconMacmini(5Po",
+      "url": "https://www.gizmodo.jp/2024/09/mac-mini-usb-c-5.html",
+      "urlToImage": "https://media.loom-app.com/gizmodo/dist/images/2024/09/18/2024-09-18mak00.jpg?w=1280&h=630&f=jpg",
+      "publishedAt": "2024-09-19T03:00:00Z",
+      "content": "A\r\nM4Mac miniUSB-A \r\nMacRumorsApple5USB-C Mac miniApple silicon Mac mini (5 Port)\r\nUSB-C5BloombergUSB-AUSB-A\r\n USB-A\r\nMac miniTimeMachineHDDAC\r\nSource: MacRumors"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Blake Stimac",
+      "title": "Your Brain's the Limit With iPhone Emoji You Dream Up in iOS 18: How It Will Work",
+      "description": "When it arrives later this year, Genmoji will let you really, really express yourself.",
+      "url": "https://www.cnet.com/tech/services-and-software/your-brains-the-limit-with-iphone-emoji-you-dream-up-in-ios-18-how-it-will-work/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3cb89f8e3d44e21f090a17aaa3a84a7bce9e4ac9/hub/2024/06/21/83519437-b999-4727-9526-dac6a87998ed/applegenmojiwwdc.png?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-19T08:00:04Z",
+      "content": "While it won't arrive on supported iPhones until an iOS 18 update later this fall, Apple Intelligence brings a lot to the table. In an only-Apple way, the take on AI feels both smart and thoughtful i… [+2617 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Zachary McAuliffe",
+      "title": "How to Perform Conversions in iOS 18's Overhauled Calculator App",
+      "description": "You can now convert distance, currency and more in Calculator.",
+      "url": "https://www.cnet.com/tech/services-and-software/how-to-perform-conversions-in-ios-18s-overhauled-calculator-app/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/e337ceb675a4142a8f89a9cace92f63dc468dfc3/hub/2024/04/05/79d02bc6-73e1-4a58-9eee-109ade6a3b83/ios-18-iphone15-2-pink.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-19T11:00:04Z",
+      "content": "Apple released iOS 18 to the general public on Sept. 16, a week after the company announced its new iPhone 16 lineup, Apple Watch Series 10 and more at its September event. The update brings a lot of… [+2277 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": "Zachary McAuliffe",
+      "title": "iOS 18: Safari's Find on Page Has a New Home. Here's Where It Is",
+      "description": "You can find the function in a more accessible spot now.",
+      "url": "https://www.cnet.com/tech/services-and-software/ios-18-safaris-find-on-page-has-a-new-home-heres-where-it-is/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/dafcdb4329783495f766917c778cc73fa0225b41/hub/2024/07/02/abfeadd5-78e3-4ed7-80e2-c8aebf8072b9/apple-safari-web-browser-9092.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2024-09-19T10:00:03Z",
+      "content": "Apple released iOS 18 to the general public on Sept. 16, a week after the company announced its new iPhone 16 lineup, Apple Watch Series 10 and more at its September event. The update brings many new… [+2460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yanko Design"
+      },
+      "author": "Vincent Nguyen",
+      "title": "Samsung Galaxy Z Fold 6 Review: Tried and Tested Design You Can Trust",
+      "description": "Samsung Galaxy Z Fold 6 Review: Tried and Tested Design You Can TrustBy now, almost every major smartphone manufacturer other than Apple has launched a foldable phone. That includes even Google, who surprisingly didn’t stop at just...",
+      "url": "https://www.yankodesign.com/2024/09/19/samsung-galaxy-z-fold-6-review-tried-and-tested-design-you-can-trust/",
+      "urlToImage": "https://www.yankodesign.com/images/design_news/2024/09/samsung-galaxy-z-fold-6-review-tried-and-tested-design-you-can-trust/Samsung-Fold6-hero.jpg",
+      "publishedAt": "2024-09-19T11:40:53Z",
+      "content": "PROS:\r\n<ul><li>Classic, no-nonsense, and reliable design</li><li>Improved screen size and aspect ratio</li><li>Strong performance and feature set</li><li>Long-term software support and IP48 rating</l… [+10269 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "tristan carballeda",
+      "title": "Après Apple et Meta, HTC lance un casque de réalité virtuelle",
+      "description": "HTC vient d'annoncer le lancement du Vive Focus Vision, son nouveau casque de réalité virtuelle pensé pour les joueurs.",
+      "url": "https://www.journaldugeek.com/2024/09/19/apres-apple-et-meta-htc-lance-un-casque-de-realite-virtuelle/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/09/HTC-casque-realite-virtuelle.jpg",
+      "publishedAt": "2024-09-19T08:34:30Z",
+      "content": "Les casques de réalité virtuelle ont du mal à se faire une place dans le cur du grand public. Malgré les tentatives récentes de Meta et surtout dApple, douvrir cette technologie au plus grand nombre,… [+2506 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Journal du geek"
+      },
+      "author": "Journal du Geek",
+      "title": "Ce pack Philips Hue avec ampoules et lampes connectées est à -44%, une pure dinguerie ",
+      "description": "Fnac propose actuellement une offre incontournable qui permet de s'équiper de deux ampoules et de deux lampes connectées Philips Hue pour un prix défiant toute concurrence.",
+      "url": "https://www.journaldugeek.com/bon-plan/ce-pack-philips-hue-avec-ampoules-et-lampes-connectees-est-a-44-une-pure-dinguerie/",
+      "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/09/Pack-Philips-Hue.jpg",
+      "publishedAt": "2024-09-19T09:49:19Z",
+      "content": "Si vous voulez faire une excellente affaire sur les produits Philips Hue, pas la peine d’attendre jusqu’au Black Friday. L’enseigne Fnac propose aujourd’hui une offre impossible à refuser pour s’équi… [+4626 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Core77.com"
+      },
+      "author": "Rain Noe",
+      "title": "This Laptop Screen Extender Gives You Two Extra Monitors",
+      "description": "Chinese manufacturer Kefeya offers this $250 S3 Laptop Screen Extender, which adds two external monitors to your laptop. The company says the frame is made of carbon fiber, and that together with the (LCD, not LED) screens, weighs in at 4.73 pounds. A kicksta…",
+      "url": "https://www.core77.com/posts/133648/This-Laptop-Screen-Extender-Gives-You-Two-Extra-Monitors",
+      "urlToImage": "https://s3files.core77.com/blog/images/lead_n_spotlight/1574989_lead_400_133648_.jpg",
+      "publishedAt": "2024-09-19T13:00:00Z",
+      "content": "Chinese manufacturer Kefeya offers this $250 S3 Laptop Screen Extender, which adds two external monitors to your laptop. The company says the frame is made of carbon fiber, and that together with the… [+616 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theregister.com"
+      },
+      "author": "Connor Jones",
+      "title": "UK activists targeted with Pegasus spyware ask police to charge NSO Group",
+      "description": "4 file complaint with London's Met, alleging malware maker helped autocratic states violate their privacy\nFour UK-based proponents of human rights and critics of Middle Eastern states today filed a report with London's Metropolitan Police they hope will lead …",
+      "url": "https://www.theregister.com/2024/09/19/pegasus_spyware_met_police_complaint/",
+      "urlToImage": "https://regmedia.co.uk/2016/08/08/metropolitan_police_image_via_shutterstock.jpg",
+      "publishedAt": "2024-09-19T12:16:44Z",
+      "content": "Four UK-based proponents of human rights and critics of Middle Eastern states today filed a report with London's Metropolitan Police they hope will lead to charges against Pegasus peddler NSO Group.\r… [+5867 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Pedro Aznar",
+      "title": "Un observatorio en el Apple Park",
+      "description": "Esta semana, Apple no solo presentó el esperado iPhone 16, sino que también reveló su nueva estructura arquitectónica, el Apple Park Observatory. Ubicado en los prados exteriores de Apple Park, en Cupertino, el edificio ha sido diseñado por Foster & Partners,…",
+      "url": "https://www.applesfera.com/eventos/observatorio-apple-park",
+      "urlToImage": "https://i.blogs.es/c67caf/jnytkgxkgoropmtygktrn3/840_560.jpeg",
+      "publishedAt": "2024-09-19T12:07:56Z",
+      "content": "Esta semana, Apple no solo presentó el esperado iPhone 16, sino que también reveló su nueva estructura arquitectónica, el Apple Park Observatory. Ubicado en los prados exteriores de Apple Park, en Cu… [+2066 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Roberto Méndez",
+      "title": "Este MacBook Air con chip M3 ofrece una potencia bestial y 512 GB de almacenamiento para sacarle aún más partido",
+      "description": "Los ordenadores portátiles de Apple destacan por brindarnos una gran potencia y ligereza, siendo ideal para quienes buscan rendimiento en un diseño ultra delgado. Sin olvidarnos de que su integración con el ecosistema de Apple garantiza una experiencia fluida…",
+      "url": "https://www.applesfera.com/seleccion/este-macbook-air-chip-m3-ofrece-potencia-bestial-512-gb-almacenamiento-para-sacarle-partido",
+      "urlToImage": "https://i.blogs.es/3c6e77/macbook-air-m3-2024-portatil-potente-y-ligero-com-16-gb-ram-y-ssd-de-512-gb-rebajado-a-mejor-precio/840_560.jpeg",
+      "publishedAt": "2024-09-19T10:39:56Z",
+      "content": "Los ordenadores portátiles de Apple destacan por brindarnos una gran potencia y ligereza, siendo ideal para quienes buscan rendimiento en un diseño ultra delgado. Sin olvidarnos de que su integración… [+2384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Álvaro García M.",
+      "title": "Todas las series que Apple ha cancelado este año y no verás una nueva temporada",
+      "description": "Hace ya un tiempo que se viene observando un cambio de estrategia de Apple TV+ con sus series. Y es que a la plataforma ya no le tiembla el pulso a la hora de cancelar series, por muchas expectativas iniciales que tuviesen y mal que le pese a sus elevados pre…",
+      "url": "https://www.applesfera.com/servicios-apple/todas-series-que-apple-ha-cancelado-este-ano-no-veras-nueva-temporada",
+      "urlToImage": "https://i.blogs.es/cf0f10/cancelada-apple-tv/840_560.jpeg",
+      "publishedAt": "2024-09-19T09:02:03Z",
+      "content": "Hace ya un tiempo que se viene observando un cambio de estrategia de Apple TV+ con sus series. Y es que a la plataforma ya no le tiembla el pulso a la hora de cancelar series, por muchas expectativas… [+3916 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Isra Fdez",
+      "title": "China prohibió a cualquier empleado del gobierno utilizar un iPhone. Ahora las tiendas han movido ficha: rebajar el iPhone 16 antes incluso de venderlo",
+      "description": "Las tensiones entre EE.UU y China vienen de largo. Siempre han existido, y siempre existirán porque no nos remitimos a un choque cultural, sino de hegemonía, de poder. Al final plantean modelos de sociedad muy diferentes, y en un contexto en el que la globali…",
+      "url": "https://www.applesfera.com/apple-1/china-prohibio-a-cualquier-empleado-gobierno-utilizar-iphone-ahora-tiendas-han-movido-ficha-rebajar-iphone-16-antes-incluso-venderlo",
+      "urlToImage": "https://i.blogs.es/a833db/china-y-apple/840_560.jpeg",
+      "publishedAt": "2024-09-19T11:02:02Z",
+      "content": "Las tensiones entre EE.UU y China vienen de largo. Siempre han existido, y siempre existirán porque no nos remitimos a un choque cultural, sino de hegemonía, de poder. Al final plantean modelos de so… [+4281 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Guille Lomener",
+      "title": "Bill Gates dice que quiere trabajar otros 20 a 30 años. Nos preguntamos si hará lo mismo Tim Cook y presentará el iPhone 20",
+      "description": "Cuando hablamos de CEOs de las compañías, tenemos grandes referentes como lo fue Steve Jobs, lo es Tim Cook, por supuesto Bill Gates, Elon Musk, Jeff Bezos... Un sinfín de nombres que algún día tendrán su sucesor y pasarán a un segundo plano. De hecho, Tim Co…",
+      "url": "https://www.applesfera.com/curiosidades/bill-gates-dice-que-quiere-trabajar-otros-20-a-30-anos-nos-preguntamos-hara-tim-cook-presentara-iphone-20",
+      "urlToImage": "https://i.blogs.es/f9695e/tim-cook-bill-gates/840_560.png",
+      "publishedAt": "2024-09-19T08:16:03Z",
+      "content": "Cuando hablamos de CEOs de las compañías, tenemos grandes referentes como lo fue Steve Jobs, lo es Tim Cook, por supuesto Bill Gates, Elon Musk, Jeff Bezos... Un sinfín de nombres que algún día tendr… [+4552 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Isra Fdez",
+      "title": "Apple va a por el último bastión que le queda por conquistar y tiene un arma infalible para ello: Mac mini a precio realmente mini",
+      "description": "Lo decíamos hace algunos días: Apple se prepara para una nueva ronda de productos. Los rumores apuntan al 30 de octubre como fecha límite y esos mismos rumores, extendidos por Mark Gurman para Bloomberg, implican un cambio enorme: un Mac mini tan mini que cab…",
+      "url": "https://www.applesfera.com/portatil/apple-va-a-ultimo-bastion-que-le-queda-conquistar-tiene-arma-infalible-para-ello-mac-mini-a-precio-realmente-mini",
+      "urlToImage": "https://i.blogs.es/bd94b8/boliviainteligente-rby8d8yn2cm-unsplash/840_560.jpeg",
+      "publishedAt": "2024-09-19T14:02:01Z",
+      "content": "Lo decíamos hace algunos días: Apple se prepara para una nueva ronda de productos. Los rumores apuntan al 30 de octubre como fecha límite y esos mismos rumores, extendidos por Mark Gurman para Bloomb… [+3632 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Guille Lomener",
+      "title": "La calculadora de iPadOS 18 esconde una función que te ayudará a aprobar matemáticas",
+      "description": "Ahora que todos podemos actualizar a iOS 18 y iPadOS 18, es momento de descubrir poco a poco las novedades que hay. Desde cambiar el color de los iconos, personalizar el centro de control, hasta los cambios en Notas que hacen de esta app toda una herramienta …",
+      "url": "https://www.applesfera.com/aplicaciones-ipados/calculadora-ipados-18-esconde-funcion-que-te-ayudara-a-aprobar-matematicas",
+      "urlToImage": "https://i.blogs.es/b6f05a/calculadora-matematicas-ipad/840_560.png",
+      "publishedAt": "2024-09-19T10:02:01Z",
+      "content": "Ahora que todos podemos actualizar a iOS 18 y iPadOS 18, es momento de descubrir poco a poco las novedades que hay. Desde cambiar el color de los iconos, personalizar el centro de control, hasta los … [+3310 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Applesfera.com"
+      },
+      "author": "Álvaro García M.",
+      "title": "Siete cosas que configurar en tu iPhone nada más actualizar a iOS 18",
+      "description": "Tras varios meses de espera desde que se presentase, esta semana ha salido iOS 18 para todos. Bueno, para la mayoría, dado que no todos los modelos actualizarán, aunque si echamos un vistazo a la lista de iPhone compatibles con iOS 18 encontramos que es ampli…",
+      "url": "https://www.applesfera.com/ios/siete-cosas-que-configurar-tu-iphone-nada-actualizar-a-ios-18",
+      "urlToImage": "https://i.blogs.es/67a252/ios-18/840_560.jpeg",
+      "publishedAt": "2024-09-19T07:01:23Z",
+      "content": "Tras varios meses de espera desde que se presentase, esta semana ha salido iOS 18 para todos. Bueno, para la mayoría, dado que no todos los modelos actualizarán, aunque si echamos un vistazo a la lis… [+6680 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Phandroid - News for Android"
+      },
+      "author": "Tyler Lee",
+      "title": "Xiaomi steals second spot from Apple!",
+      "description": "According to the latest figures, it seems that Xiaomi has managed to dethrone Apple and stole the number two spot.\nThe post Xiaomi steals second spot from Apple! appeared first on Phandroid.",
+      "url": "https://phandroid.com/2024/09/19/xiaomi-steals-second-spot-from-apple/",
+      "urlToImage": "https://phandroid.com/wp-content/uploads/2024/02/xiaomi14-ultra-2-640x391.png",
+      "publishedAt": "2024-09-19T11:28:50Z",
+      "content": "For the longest time ever, Apple and Samsung were basically the top dogs in the smartphone market. Both companies occupied the first and second positions, but it looks like Apple has lost its spot in… [+1077 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Setra",
+      "title": "Il existe un moyen de tester Apple Intelligence dans l’UE, mais c’est compliqué",
+      "description": "Pour le moment, Apple Intelligence n’est pas disponible sur les iPhone et les iPad dans l’Union européenne. En revanche, les tests d’Apple Intelligence sur macOS n’excluent pas les développeurs européens.",
+      "url": "https://www.presse-citron.net/il-existe-un-moyen-de-tester-apple-intelligence-dans-lue-mais-cest-complique/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2024/05/test-macbook-air-m3-15.jpg",
+      "publishedAt": "2024-09-19T08:31:06Z",
+      "content": "Au mois doctobre, Apple lancera les premières fonctionnalités Apple Intelligence sur les appareils compatibles. Mais malheureusement, pour le moment, ce déploiement ne concerne que langlais américain… [+3244 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Jean-Yves Alric",
+      "title": "Surprise sur le marché des smartphones : cette marque bat Apple (et ce n’est pas Samsung)",
+      "description": "Les derniers chiffres de ventes publiés ne devraient pas plaire à la firme de Cupertino.",
+      "url": "https://www.presse-citron.net/surprise-sur-le-marche-des-smartphones-cette-marque-bat-apple-et-ce-nest-pas-samsung/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2024/09/vente-smartphones.jpg",
+      "publishedAt": "2024-09-19T08:55:57Z",
+      "content": "Alors que les observateurs ont tendance à se focaliser sur le duel Apple-Samsung sur le marché des smartphones, une autre marque confirme sa montée en puissance depuis plusieurs années : Xiaomi. Ce s… [+2414 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Openculture.com"
+      },
+      "author": "Colin Marshall",
+      "title": "Do All Roads Lead to Philosophy on Wikipedia?: They Do About 97.3% of the Time",
+      "description": "Pull up the Wikipedia page for Mariya Takeuchi’s “Plastic Love,” the 1984 single now known for re-popularizing the genre of Japanese “city pop.” Then click the first of its links (not related to the language of the article itself), which leads to Takeuchi’s o…",
+      "url": "https://www.openculture.com/2024/09/do-all-roads-lead-to-philosophy-on-wikipedia-they-do-about-97-3-of-the-time.html",
+      "urlToImage": "https://cdn8.openculture.com/2024/09/18221615/Screenshot-2024-09-18-at-10.15.43%E2%80%AFPM-1024x570.png",
+      "publishedAt": "2024-09-19T14:09:34Z",
+      "content": "Pull up the Wikipedia page for Mariya Takeuchis Plas­tic Love, the 1984 sin­gle now known for re-pop­u­lar­iz­ing the genre of Japan­ese city pop. Then click the first of its links (not relat­ed to t… [+3557 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "GameSpot"
+      },
+      "author": "Steve Watts",
+      "title": "5 Years Later, Sayonara Wild Hearts Gains More Significance With Each Revisit",
+      "description": "Sayonara Wild Hearts is celebrating its 5-year anniversary today, September 19, 2024. Below, we examine how it feels to revisit the game and its soundtrack time and time again.The more time passes, the more nostalgic I grow for Sayonara Wild Hearts. The \"pop …",
+      "url": "https://www.gamespot.com/articles/5-years-later-sayonara-wild-hearts-gains-more-significance-with-each-revisit/1100-6526574/",
+      "urlToImage": "https://www.gamespot.com/a/uploads/screen_kubrick/1585/15855271/4369744-3587223-sayonara-wild-hearts-review-thumb-nologo.jpg",
+      "publishedAt": "2024-09-19T14:00:00Z",
+      "content": "Sayonara Wild Hearts is celebrating its 5-year anniversary today, September 19, 2024. Below, we examine how it feels to revisit the game and its soundtrack time and time again.\r\nThe more time passes,… [+5956 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xataka Android"
+      },
+      "author": "Iván Linares",
+      "title": "Sorpresa: los Redmi Note 14 Pro y Pro+ desvelados con todo detalle por la mismísima Xiaomi",
+      "description": "Ya tenemos encarada la recta de final de año por parte de Xiaomi, la marca no sólo va a desvelar en Europa los Xiaomi 14T, también veremos en China a la evolución de los Redmi Note 13, la nueva familia de Redmi Note 14. Al menos tres teléfonos y con fecha de …",
+      "url": "https://www.xatakandroid.com/moviles-android/sorpresa-redmi-note-14-pro-pro-desvelados-todo-detalle-xiaomi",
+      "urlToImage": "https://i.blogs.es/ddce97/redmi-note-14-portada/840_560.jpeg",
+      "publishedAt": "2024-09-19T08:45:20Z",
+      "content": "Ya tenemos encarada la recta de final de año por parte de Xiaomi, la marca no sólo va a desvelar en Europa los Xiaomi 14T, también veremos en China a la evolución de los Redmi Note 13, la nueva famil… [+2250 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Authority"
+      },
+      "author": "Mitja Rutnik",
+      "title": "Here’s how Pixel’s software update policy changed over the years",
+      "description": "Pixel's software policy went from three to seven years, making it a market leader. Check out details for each Pixel device here.",
+      "url": "https://www.androidauthority.com/google-pixel-software-update-policy-3482984/",
+      "urlToImage": "https://www.androidauthority.com/wp-content/uploads/2024/09/Google-Pixel-9-Pro-lock-screen.jpg",
+      "publishedAt": "2024-09-19T11:00:00Z",
+      "content": "Software support is important, especially when you spend a fortune on a new smartphone and plan on holding on to it for a long time. Googles Pixel lineup is currently among the best on the market in … [+4997 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Presse-citron"
+      },
+      "author": "Setra",
+      "title": "Les SMS sont-ils déjà morts ? La GSMA prévoit une nouvelle mise à jour majeure pour les textos",
+      "description": "Alors qu’Apple vient de mettre à jour les iPhone pour prendre en charge la technologie RCS, la GSMA annonce le développement d’un chiffrement de bout en bout qui sécurisera les communications entre utilisateurs d’iPhone et de smartphones Android.",
+      "url": "https://www.presse-citron.net/les-sms-sont-ils-deja-morts-la-gsma-prevoit-une-nouvelle-mise-a-jour-majeure-pour-les-textos/",
+      "urlToImage": "https://www.presse-citron.net/app/uploads/2024/09/texto-iphone.jpg",
+      "publishedAt": "2024-09-19T10:32:14Z",
+      "content": "Pendant des années, Google a milité pour quon arrête dutiliser les SMS, au profit de la technologie RCS. Pour rappel, il sagit dun standard plus récent de la GSMA, un groupe qui représente les opérat… [+2814 chars]"
+    },
+    {
+      "source": {
+        "id": "die-zeit",
+        "name": "Die Zeit"
+      },
+      "author": "ZEIT ONLINE: News -",
+      "title": "EU-Digitalgesetz DMA: EU-Kommission mit Detailverfahren zu Forderungen an Apple",
+      "description": "Hier finden Sie Informationen zu dem Thema „EU-Digitalgesetz DMA“. Lesen Sie jetzt „EU-Kommission mit Detailverfahren zu Forderungen an Apple“.",
+      "url": "https://www.zeit.de/news/2024-09/19/eu-kommission-mit-detailverfahren-zu-forderungen-an-apple",
+      "urlToImage": "https://img.zeit.de/news/2024-09/19/eu-kommission-mit-detailverfahren-zu-forderungen-an-apple-image-group/wide__1300x731",
+      "publishedAt": "2024-09-19T12:11:09Z",
+      "content": "Die Europäische Kommission hat zwei Spezifikationsverfahren eingeleitet, um Apple bei der Umsetzung der Anforderungen aus dem neuen Digitalgesetz DMA zu unterstützen. Der «Digital Markets Act» verlan… [+2347 chars]"
+    },
+    {
+      "source": {
+        "id": "die-zeit",
+        "name": "Die Zeit"
+      },
+      "author": "ZEIT ONLINE: News -",
+      "title": "E-Commerce: Visa rollt vereinfachtes Online-Bezahlverfahren aus",
+      "description": "Hier finden Sie Informationen zu dem Thema „E-Commerce“. Lesen Sie jetzt „Visa rollt vereinfachtes Online-Bezahlverfahren aus“.",
+      "url": "https://www.zeit.de/news/2024-09/19/visa-rollt-vereinfachtes-online-bezahlverfahren-aus",
+      "urlToImage": "https://img.zeit.de/news/2024-09/19/visa-rollt-vereinfachtes-online-bezahlverfahren-aus-image-group/wide__1300x731",
+      "publishedAt": "2024-09-19T12:00:36Z",
+      "content": "Der Kreditkartenanbieter Visa will sein vereinfachtes Online-Zahlverfahren «Click to Pay» bis Jahresende bei mehr großen Händlern in Deutschland etablieren. «Ein Drittel der Top-20-Onlinehändler in D… [+2113 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Espinof.com"
+      },
+      "author": "Mikel Zorrilla",
+      "title": "La secuela de una de las mejores series de ciencia ficción del siglo XXI es cancelada de forma fulminante: no habrá temporada 2 de 'Orphan Black: Echoes', que se queda sin final",
+      "description": "En su momento había grandes esperanzas depositadas en 'Orphan Black: Echoes', secuela de una de las series de ciencia ficción mejor consideradas de lo que llevamos de siglo XXI. Por desgracia, no ha funcionado como se esperaba y el canal AMC ha decidido cance…",
+      "url": "https://www.espinof.com/series-de-ficcion/secuela-mejores-series-ciencia-ficcion-siglo-xxi-cancelada-forma-fulminante-no-habra-temporada-2-orphan-black-echoes-que-se-queda-final",
+      "urlToImage": "https://i.blogs.es/a6371c/echoes/840_560.jpeg",
+      "publishedAt": "2024-09-19T10:32:00Z",
+      "content": "En su momento había grandes esperanzas depositadas en 'Orphan Black: Echoes', secuela de una de las series de ciencia ficción mejor consideradas de lo que llevamos de siglo XXI. Por desgracia, no ha … [+1232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techdirt"
+      },
+      "author": "Mike Masnick",
+      "title": "ExTwitter’s Brazil Ban Evasion: Cloudflare’s CDN Becomes Latest Battleground",
+      "description": "It appears that Elon has decided to take the Brazilian hornet’s nest he’d already kicked over the last few weeks and start slamming it with a baseball bat. It’s unlikely this will end well. I’ve been pretty clear that I don’t think either Elon Musk or Brazil …",
+      "url": "https://www.techdirt.com/2024/09/18/extwitters-brazil-ban-evasion-cloudflare-cdn-becomes-latest-battleground/",
+      "urlToImage": "https://www.techdirt.com/wp-content/themes/techdirt/assets/images/td-rect-logo-white.png",
+      "publishedAt": "2024-09-19T00:11:50Z",
+      "content": "from the cat-and-mouse dept\r\nIt appears that Elon has decided to take the Brazilian hornets nest hed already kicked over the last few weeks and start slamming it with a baseball bat. Its unlikely thi… [+4923 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "Kuo: iPhone 17 to Use 3nm Chip Tech, Some iPhone 18 Models to Use 2nm",
+      "description": "Next year's iPhone 17 series will feature processors made using TSMC's 3-nanometer chip technology, but only some iPhone 18 models in 2026 are anticipated to use the Taiwanese chipmaker's next-generation 2nm processor technology because of cost concerns, acco…",
+      "url": "https://www.macrumors.com/2024/09/19/kuo-iphone-17-3nm-chips/",
+      "urlToImage": "https://images.macrumors.com/t/imKuUlfjYQqdqL6XgYAx8ySQ06c=/1810x/article-new/2021/06/3nm-apple-silicon-feature.jpg",
+      "publishedAt": "2024-09-19T08:08:38Z",
+      "content": "Next year's iPhone 17 series will feature processors made using TSMC's 3-nanometer chip technology, but only some iPhone 18 models in 2026 are anticipated to use the Taiwanese chipmaker's next-genera… [+2046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MacRumors"
+      },
+      "author": "Tim Hardwick",
+      "title": "iOS 18: How to Use New Text Effects in Messages",
+      "description": "In iOS 18, Apple has added several new features to its Messages app, one being the ability to add neat text effects to your messages to make them more expressive.\n\n\n\n\n\nThe new animated text effects can be applied to your entire message, a single word, a phras…",
+      "url": "https://www.macrumors.com/how-to/use-new-text-effects-messages/",
+      "urlToImage": "https://images.macrumors.com/t/3E--QIRnqt4tjphKK9uw3HtPbbY=/2000x/article-new/2024/08/ios-18-text-effects-messages.jpg",
+      "publishedAt": "2024-09-19T10:37:00Z",
+      "content": "In iOS 18, Apple has added several new features to its Messages app, one being the ability to add neat text effects to your messages to make them more expressive.\r\nThe new animated text effects can b… [+886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Nassim Chentouf",
+      "title": "Actualité : Xiaomi dépasse Apple : une grosse chute avant le lancement de l'iPhone 16",
+      "description": "D’après les analystes, les iPhone 16 Pro et Pro Max ne se vendront pas aussi bien que prévu, ce qui ne risque pas d’arranger les affaires d’Apple. Selon une récente analyse de Counterpoint Research sur les ventes mondiales de smartphones, Xiaomi dépasse la fi…",
+      "url": "https://www.lesnumeriques.com/telephone-portable/xiaomi-depasse-apple-une-grosse-chute-avant-le-lancement-de-l-iphone-16-n226465.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/22/226465/99dedd1e-xiaomi-depasse-apple__1200_678__0-410-4237-2634.jpg",
+      "publishedAt": "2024-09-19T08:30:00Z",
+      "content": "Les données montrent une croissance assez stable mois sur mois pour Xiaomi. Quant à Apple, il sagit dune baisse habituelle avant le lancement dune nouvelle génération diPhone.\r\nSamsung garde sa premi… [+593 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Les Numériques"
+      },
+      "author": "Guillaume Henri",
+      "title": "Actualité : AMD a un problème avec ses processeurs de PC portables",
+      "description": "AMD a semble-t-il du mal à fournir ses partenaires en processeurs pour PC portable engendrant des tensions et des frustrations. Le problème n’est pas récent et semble avoir atteint un paroxysme avec l'avènement de l’IA et l’arrivée de Qualcomm.",
+      "url": "https://www.lesnumeriques.com/cpu-processeur/amd-a-un-probleme-avec-ses-processeurs-de-pc-portables-n226490.html",
+      "urlToImage": "https://cdn.lesnumeriques.com/optim/news/22/226490/98c2ce67-amd-a-un-probleme-avec-ses-processeurs-de-pc-portables__1200_678__overflow.jpg",
+      "publishedAt": "2024-09-19T14:22:00Z",
+      "content": "Au moment où nous écrivons ses lignes, le meilleur processeur pour PC portable est actuellement le Ryzen AI HX 370 dAMD. Comme la démontré le test du ZenBook S 16 dAsus, ce processeur est à la fois p… [+4527 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Sergio Asenjo",
+      "title": "La nueva fábrica de TSMC en Arizona arranca la producción de chips para el iPhone. El próximo iPhone SE podría ser el primer beneficiado",
+      "description": "Sabíamos desde principios de 2020 que TSMC iba a abrir una fábrica de procesadores en Arizona, Estados Unidos. El propio Tim Cook hablaba a finales de 2022 acerca de los planes de la compañía de empezar a producir los procesadores de sus dispositivos en suelo…",
+      "url": "https://www.xatakamovil.com/apple/nueva-fabrica-tsmc-arizona-arranca-produccion-chips-para-iphone-proximo-iphone-se-podria-ser-primer-beneficiado",
+      "urlToImage": "https://i.blogs.es/4d9588/iphone-15-pro-max/840_560.jpeg",
+      "publishedAt": "2024-09-19T09:46:03Z",
+      "content": "Sabíamos desde principios de 2020 que TSMC iba a abrir una fábrica de procesadores en Arizona, Estados Unidos. El propio Tim Cook hablaba a finales de 2022 acerca de los planes de la compañía de empe… [+2128 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Xatakamovil.com"
+      },
+      "author": "Sergio Asenjo",
+      "title": "Los Redmi Note 14 están al caer: la compañía muestra los Note 14 Pro y 14 Pro+ y anuncia su llegada inminente",
+      "description": "A estas alturas no podemos negar el éxito de los Redmi Note, una de las familias más importantes para Xiaomi. Los más recientes son los Redmi Note 13, una serie compuesta por varios dispositivos para todo tipo de presupuestos: desde el Redmi Note 13 como gama…",
+      "url": "https://www.xatakamovil.com/xiaomi/redmi-note-14-estan-al-caer-compania-muestra-note-14-pro-14-pro-anuncia-su-llegada-inminente",
+      "urlToImage": "https://i.blogs.es/b2beaa/redmi-note-14-plus-portada/840_560.jpeg",
+      "publishedAt": "2024-09-19T12:07:56Z",
+      "content": "A estas alturas no podemos negar el éxito de los Redmi Note, una de las familias más importantes para Xiaomi. Los más recientes son los Redmi Note 13, una serie compuesta por varios dispositivos para… [+2171 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "Mankaprr Conteh",
+      "title": "Steve McQueen’s ‘Blitz’ Trailer: Panic and Partying in London Under Siege",
+      "description": "WWII drama 'Blitz' will premiere at the BFI London Film Festival, hit select theaters on Nov. 1 then stream globally on Apple TV+ on Nov. 22",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-news/blitz-trailer-steve-mcqueen-london-saoirse-ronan-1235106695/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/09/blitz-trailer.jpg?crop=0px%2C118px%2C1798px%2C1014px&resize=1600%2C900",
+      "publishedAt": "2024-09-19T14:34:29Z",
+      "content": "In the first trailer for Blitz, director Steve McQueen’s latest historical drama, Oscar nominee Saoirse Ronan and newcomer Elliott Heffernan play a mother and nine-year-old son racing to find each ot… [+1283 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Rolling Stone"
+      },
+      "author": "David Fear",
+      "title": "‘Wolfs’ Reunites George Clooney and Brad Pitt, Parties Like It’s 1999",
+      "description": "Remember when movie stars shooting guns, looking cool and cracking wise was just another Friday night at the multiplex? This A-list throwback does.",
+      "url": "http://www.rollingstone.com/tv-movies/tv-movie-reviews/wolfs-review-george-clooney-brad-pitt-1235100850/",
+      "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2024/09/Wolfs_Photo_0103.jpg?w=1600&h=900&crop=1",
+      "publishedAt": "2024-09-19T14:30:00Z",
+      "content": "Everyone makes mistakes. It doesn’t matter whether you’re a tinker, a tailor, a rich man, a poor man, a beggar man or a streaming service owned by a major tech company who dabbles in film production.… [+5399 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "Olli",
+      "title": "Apple AirPods Pro 2 und AirPods 4 erhalten neue Firmware",
+      "description": "Ihr seid Besitzer der AirPods Pro der zweiten Generation mit Lightning oder USB-C oder bald der neuen AirPods 4? Dann dürfte euch eventuell interessieren, dass Apple für diese Kopfhörer eine neue Firmware veröffentlicht hat, die den Softwarestand bei den Pro.…",
+      "url": "https://stadt-bremerhaven.de/apple-airpods-pro-2-und-airpods-4-erhalten-neue-firmware/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/09/airpods-4_2.jpeg",
+      "publishedAt": "2024-09-19T05:15:33Z",
+      "content": "Ihr seid Besitzer der AirPods Pro der zweiten Generation mit Lightning oder USB-C oder bald der neuen AirPods 4? Dann dürfte euch eventuell interessieren, dass Apple für diese Kopfhörer eine neue Fir… [+965 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "Die EU und Apple: Erstes Verfahren zur Konkretisierung der Interoperabilitätsverpflichtungen eingeleitet",
+      "description": "Die EU hat derzeit viele Tech-Firmen im Fokus und versucht diese zwingen, sich für den Wettbewerb zu öffnen. Die Liste ist lang, unter anderem ist Apple im Fokus. Das haben wir in der EU schon gespürt, es gibt Dritt-App-Stores und...Zum Beitrag: Die EU und Ap…",
+      "url": "https://stadt-bremerhaven.de/die-eu-und-apple-erstes-verfahren-zur-konkretisierung-der-interoperabilitaetsverpflichtungen-eingeleitet/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2021/12/Apple-Logo-Shop.jpg",
+      "publishedAt": "2024-09-19T13:00:57Z",
+      "content": "Die EU hat derzeit viele Tech-Firmen im Fokus und versucht diese zwingen, sich für den Wettbewerb zu öffnen. Die Liste ist lang, unter anderem ist Apple im Fokus. Das haben wir in der EU schon gespür… [+2325 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Caschys Blog"
+      },
+      "author": "caschy",
+      "title": "macOS Sequoia 15: Habt ihr Internetprobleme?",
+      "description": "Vermutlich haben viele der mitlesenden Nutzer von macOS schon auf macOS 15 Sequoia. Dabei kann es wohl zu Problemen mit dem Internet kommen. Vorab: eine Lösung habe ich nicht gefunden, allerdings zahlreiche Betroffene in den Foren von Apple und bei...Zum Beit…",
+      "url": "https://stadt-bremerhaven.de/macos-15-habt-ihr-internetprobleme/",
+      "urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2024/06/IMAGE-2024-06-10-195336.jpg",
+      "publishedAt": "2024-09-19T11:30:58Z",
+      "content": "Vermutlich haben viele der mitlesenden Nutzer von macOS schon auf macOS 15 Sequoia. Dabei kann es wohl zu Problemen mit dem Internet kommen. Vorab: eine Lösung habe ich nicht gefunden, allerdings zah… [+1572 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Samantha Bergeson",
+      "title": "‘Blitz’ Trailer: Saoirse Ronan Tries to Protect Her Son During WWII in Steve McQueen’s Epic",
+      "description": "Steve McQueen writes and directs 'Blitz' which stars Saoirse Ronan.",
+      "url": "https://www.indiewire.com/news/trailers/blitz-trailer-saoirse-ronan-steve-mcqueen-wwii-1235049094/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2024/09/Blitz__Photo_0104.jpg?w=650",
+      "publishedAt": "2024-09-19T13:00:00Z",
+      "content": "Steve McQueen is debuting his latest period piece, this time starring Saoirse Ronan. \r\nMcQueen writes and directs “Blitz,” which follows the epic journey of George (Elliott Heffernan), a 9-year-old b… [+2232 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "IndieWire"
+      },
+      "author": "Tony Maglio",
+      "title": "Prime Video & Amazon MGM Studios Is the First New MPA Member Since Netflix in 2019",
+      "description": "Amazon's Prime Video and its Amazon MGM Studios are the first new member of the MPA since Netflix in 2019.",
+      "url": "https://www.indiewire.com/news/breaking-news/prime-video-amazon-mgm-studios-join-mpa-1235049237/",
+      "urlToImage": "https://www.indiewire.com/wp-content/uploads/2024/03/RDHS_2024_UT_221028_RADLAU_19055_R_CROP_1_3000.jpg?w=650",
+      "publishedAt": "2024-09-19T14:16:39Z",
+      "content": "It looks like Amazon is going to have to finally make good\r\n better on those big theatrical promises: Prime Video &amp; Amazon MGM Studios have been selected as the seventh member of the MPA (Motion … [+2467 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Cassim Montilla",
+      "title": "« L’innovation est morte depuis des années » : Back Market attaque frontalement Apple et l’iPhone 16",
+      "description": "Le spécialiste du reconditionné Back Market lance une grande campagne marketing visant directement Apple. Pas besoin du dernier gadget à la mode quand les smartphones n'innovent plus vraiment.",
+      "url": "https://www.frandroid.com/produits-android/smartphone/2343428_linnovation-est-morte-depuis-des-annees-back-market-attaque-frontalement-apple-et-liphone-16",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/09/fr-mockup-1-resized-1200x801-1.jpeg",
+      "publishedAt": "2024-09-19T13:45:44Z",
+      "content": "Le spécialiste du reconditionné Back Market lance une grande campagne marketing visant directement Apple. Pas besoin du dernier gadget à la mode quand les smartphones n’innovent plus vraiment.\r\nBack … [+2348 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Nathan Le Gohlisse",
+      "title": "iPhone 16 : Apple a trouvé une combine très maline pour doper sa réparabilité",
+      "description": "Pour améliorer le potentiel de réparabilité de ses iPhone 16, Apple mise désormais sur un nouveau dispositif permettant de remplacer plus facilement la batterie. Comment ? À l’aide d’un adhésif un peu particulier.",
+      "url": "https://www.frandroid.com/produits-android/smartphone/2343024_iphone-16-apple-a-trouve-une-combine-tres-maline-pour-doper-sa-reparabilite",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/09/iphone-16-pro-interne-1200x690-1.jpg",
+      "publishedAt": "2024-09-19T12:17:29Z",
+      "content": "Pour améliorer le potentiel de réparabilité de ses iPhone 16, Apple mise désormais sur un nouveau dispositif permettant de remplacer plus facilement la batterie. Comment ? À l’aide d’un adhésif un pe… [+2224 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Sylvain Pichot",
+      "title": "Apple vend moins de smartphones qu’un fabricant chinois et ce n’est pas Huawei",
+      "description": "Alors qu’Apple a pour habitude de figurer dans le Top 3 des ventes mondiales sur le marché des smartphones, le géant chinois Xiaomi a réussi l'exploit de dépasser la marque américaine au mois d'août dernier, s'emparant ainsi de la deuxième place du podium.",
+      "url": "https://www.frandroid.com/marques/apple/2342708_apple-vend-moins-de-smartphones-quun-fabricant-chinois-et-ce-nest-pas-huawei",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/09/apple-iphone-16-finish-lineup-240909-1460x960-1-1200x789-1.jpg",
+      "publishedAt": "2024-09-19T06:53:30Z",
+      "content": "Alors qu’Apple a pour habitude de figurer dans le Top 3 des ventes mondiales sur le marché des smartphones, le géant chinois Xiaomi a réussi l’exploit de dépasser la marque américaine au mois d’août … [+2237 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Hugo Bernard",
+      "title": "Huawei veut concurrencer toujours plus les iPad avec ces deux nouvelles tablettes",
+      "description": "Huawei annonce la MatePad Pro 12,2 pouces ainsi que la MatePad 12X. Deux tablettes tactiles haut de gamme qui veulent marcher sur les plates bandes d'Apple et de ses iPad. Pas d'Android, ni de services Google ici, puisqu'elles fonctionnent sous HarmonyOS 4.0.",
+      "url": "https://www.frandroid.com/marques/huawei/2343238_huawei-veut-concurrencer-toujours-plus-les-ipad-avec-ces-deux-nouvelles-tablettes",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/09/matepad-pro-product-creative-lifestyle-shot-headquarter-mkt-huawei-matepad-pro-lifestyleshot-wps-en-hq-jpg-0820-1200x900-1.jpg",
+      "publishedAt": "2024-09-19T14:00:00Z",
+      "content": "Huawei annonce la MatePad Pro 12,2 pouces ainsi que la MatePad 12X. Deux tablettes tactiles haut de gamme qui veulent marcher sur les plates bandes d’Apple et de ses iPad. Pas d’Android, ni de servic… [+2543 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Geoffroy Husson",
+      "title": "Huawei lance deux montres élégantes, au suivi d’activité avancé et avec une autonomie très confortable",
+      "description": "Huawei a dévoilé ses nouvelles montres haut de gamme, la Huawei Watch GT 5 et la Huawei Watch GT 5 Pro. La Huawei Watch GT 5 Pro // Source : Huawei Après",
+      "url": "https://www.frandroid.com/marques/huawei/2340848_huawei-lance-deux-montres-elegantes-au-suivi-dactivite-avance-et-avec-une-autonomie-tres-confortable",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/09/vilijana-lifestyle-image-vili-pro-titanium-1-en-jpg-20240817-1200x800-1.jpg",
+      "publishedAt": "2024-09-19T14:00:00Z",
+      "content": "Huawei a dévoilé ses nouvelles montres haut de gamme, la Huawei Watch GT 5 et la Huawei Watch GT 5 Pro. \r\nLa Huawei Watch GT 5 Pro // Source : Huawei\r\nAprès Samsung, Google, Garmin et Apple, c’est dé… [+3018 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Frandroid"
+      },
+      "author": "Geoffroy Husson",
+      "title": "Test de la Huawei Watch GT 5 Pro : l’élégance au service de la santé",
+      "description": "La Huawei Watch GT 5 Pro est la nouvelle montre haut de gamme du constructeur chinois, dotée de finitions soignées, d'un boîtier en titane et d'un nouveau capteur de santé. Voici son test complet.",
+      "url": "https://www.frandroid.com/marques/huawei/2320304_test-de-la-huawei-watch-gt-5-pro-lelegance-au-service-de-la-sante",
+      "urlToImage": "https://images.frandroid.com/wp-content/uploads/2024/09/huawei-watch-gt-5-pro-23-1200x800-1.jpg",
+      "publishedAt": "2024-09-19T14:00:00Z",
+      "content": "La Huawei Watch GT 5 Pro // Source : Chloé Pertuis – Frandroid\r\nRéglé comme un coucou suisse, Huawei profite de l’automne pour dévoiler sa nouvelle gamme de montres connectées. Outre la Huawei Watch … [+16832 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.ru"
+      },
+      "author": "Макс Вильтовский",
+      "title": "Известный аналитик раскрыл особенности iPhone 17 и iPhone 18",
+      "description": "В следующем году смартфоны оснастят процессорами, изготовленными с использованием усовершенствованной N3P-технологи.",
+      "url": "https://lifehacker.ru/raskryty-osobennosti-iphone-17/",
+      "urlToImage": "https://cdn.lifehacker.ru/wp-content/uploads/2024/09/Betterimage.ai_1726743979353_1726743998.jpeg",
+      "publishedAt": "2024-09-19T11:10:54Z",
+      "content": "iPhone 17 , N3P- TSMC 3- . iPhone 18, 2026-, 2- . - .\r\n «3 » «2 » , . , . , , .\r\n Apple 3- iPhone Mac. 2-, TSMC 2025 . . , , , ."
+    }
+  ]
+}
